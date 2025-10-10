@@ -1,2 +1,3 @@
 # Play-Cricket-On-Python
 Through this program, a user can play a simple cricket game against computer. User can select number of overs, number of players in each team. A proper cricket match can be played from a toss to 1st inning and then chasing the target. The rules can be understood in the documentation provided.  
+While users's batting, he will choose a number between 0 to 6 i.e. general scores in cricket on a ball. At the same time computer chooses number using random module of python between 0 and 6. If the number chosen by both are equal then the batsman will be out else the total runs will be updated by the number chosen by user. In computer's batting, just the roles get reversed. Rest of the game follows rules of cricket like all out, target chasing, etc.
