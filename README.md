@@ -69,7 +69,7 @@ python cricket.py
 Play-Cricket-On-Python/
 │
 ├── cricket.py   # Main game file
-├── README.md         # Project documentation
+├── README.md    # Project documentation
 ```
 
 ---
