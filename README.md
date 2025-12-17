@@ -113,7 +113,7 @@ Score: 4/0
 ## Author
 
 - **Shivam Singh**
-- Student | Python Enthusiast
+- Student | Python Learner
 - @shivam183-star
 ---
 
